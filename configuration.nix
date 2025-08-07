@@ -106,6 +106,7 @@
     waybar
     hyprpaper
     gh
+    waypaper
   ];
 
   # This value determines the NixOS release from which the default
